@@ -52,8 +52,8 @@ Currently focused on deepening my expertise in distributed systems, Spring Secur
 
 ## 📬 Connect with me
 
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@gmail.com
+- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/gagan-c-gowda)
+- Email: gagancgowda971@gmail.com
 
 ---
 
