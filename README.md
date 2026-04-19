@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Gagan
 
-<!--
-**CGaganGowda/CGaganGowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Spring Boot Backend Developer with 2 years of experience building scalable, production-grade REST APIs and microservices. I'm passionate about clean architecture, writing maintainable code, and solving real-world problems through well-designed backend systems.
 
-Here are some ideas to get you started:
+Currently focused on deepening my expertise in distributed systems, Spring Security, and cloud-native development on AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:**
+Core languages - Java, SQL
+Frameworks & libraries - Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Hibernate, Lombok, Databases, PostgreSQL
+Tools & DevOps - Maven, Git & GitHub, Postman, IntelliJ IDEA, Docker, GitHub Actions, AWS (EC2, S3, RDS)
+Testing - JUnit 5, Mockito
+
+**What I build**
+REST APIs following standard HTTP conventions and layered architecture.
+Banking & fintech backends — account management, fund transfers, transaction history.
+Employee management systems with CRUD operations and business logic.
+Exception handling with custom error responses and global handlers.
+Secure APIs with JWT authentication and role-based access control.
+
+Currently learning - Spring Cloud, Redis caching, Kafka
+
+Connect with me
+LinkedIn: linkedin.com/in/gagan-c-gowda
+Email: gagancgowda971@gmail.com
