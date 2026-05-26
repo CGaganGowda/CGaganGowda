@@ -58,7 +58,7 @@ I'm a passionate **Java Backend Developer** with hands-on experience building pr
 - JWT-secured APIs with role-based access control
 - Global exception handling for production-grade error responses
 
-**Stack:** `Java 21` · `Spring Boot 4.x` · `Spring Security` · `JWT` · `JPA/Hibernate` · `PostgreSQL` · `Lombok` · `ModelMapper`
+**Stack:** `Java 21` · `Spring Boot 3.x` · `Spring Security` · `JWT` · `JPA/Hibernate` · `PostgreSQL` · `Lombok` · `ModelMapper`
 
 ---
 
