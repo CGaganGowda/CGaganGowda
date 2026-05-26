@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Java Backend Developer** with hands-on experience building production-ready REST APIs using **Spring Boot 3.x** and **Java 21**. I focus on writing clean, maintainable code with a strong emphasis on **security**, **scalability**, and **real-world design patterns**.
+I'm a passionate **Java Backend Developer** with hands-on experience building production-ready REST APIs and micro services using **Spring Boot 3.x** and **Java 21**. I focus on writing clean, maintainable code with a strong emphasis on **security**, **scalability**, and **real-world design patterns**.
 
 - 🔭 Currently building full-featured backend systems with **Spring Security + JWT**
 - 🌱 Actively deepening expertise in **Spring Boot**, **JPA/Hibernate**, and **PostgreSQL**
@@ -75,14 +75,24 @@ I'm a passionate **Java Backend Developer** with hands-on experience building pr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![Gagan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CGaganGowda&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CGaganGowda&layout=compact&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CGaganGowda&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
+
+### 🔢 By the Numbers
+
+| Metric | Value |
+|---|---|
+| 🏗️ Public Repositories | 5 |
+| ☕ Primary Language | Java (100%) |
+| 📝 Total Commits (Banking App) | 64+ |
+| 📝 Total Commits (Employee System) | 109+ |
+| 🔧 Frameworks Used | Spring Boot 4.x, Spring Security |
+| 🗄️ Databases | PostgreSQL |
 
 ---
 
